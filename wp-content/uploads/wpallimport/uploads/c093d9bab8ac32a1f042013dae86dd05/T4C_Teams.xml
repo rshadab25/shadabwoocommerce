@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Georgia]]></school>
+		<color1><![CDATA[#BA0C2F]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Bulldog]]></mascot>
+		<chant><![CDATA[Go dawgs! Sic 'em]]></chant>
+		<shortname><![CDATA[UGA]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Alabama]]></school>
+		<color1><![CDATA[#990000]]></color1>
+		<color2><![CDATA[#eeeeee]]></color2>
+		<mascot><![CDATA[Crimson tide]]></mascot>
+		<chant><![CDATA[Roll Tide]]></chant>
+		<shortname><![CDATA[UA]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[Auburn University]]></school>
+		<color1><![CDATA[#dd550c]]></color1>
+		<color2><![CDATA[#03244d]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[War Eagle]]></chant>
+		<shortname><![CDATA[AU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Mississippi]]></school>
+		<color1><![CDATA[#c8102e]]></color1>
+		<color2><![CDATA[#00205b]]></color2>
+		<mascot><![CDATA[Rebels]]></mascot>
+		<chant><![CDATA[Go Rebs/ hotty toddy]]></chant>
+		<shortname><![CDATA[Ole Miss]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Arkansas]]></school>
+		<color1><![CDATA[#9D2235]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Hog]]></mascot>
+		<chant><![CDATA[Woo pig sooie]]></chant>
+		<shortname><![CDATA[UARK]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Florida ]]></school>
+		<color1><![CDATA[#FA4616]]></color1>
+		<color2><![CDATA[#0021A5]]></color2>
+		<mascot><![CDATA[Gator]]></mascot>
+		<chant><![CDATA[Go gators]]></chant>
+		<shortname><![CDATA[UF]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Kentucky]]></school>
+		<color1><![CDATA[#0033A0]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Wildcat]]></mascot>
+		<chant><![CDATA[Go big blue]]></chant>
+		<shortname><![CDATA[UK]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[Louisiana State University]]></school>
+		<color1><![CDATA[#461D7C]]></color1>
+		<color2><![CDATA[#FDD023]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[Geaux Tigers]]></chant>
+		<shortname><![CDATA[LSU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[Mississippi State University]]></school>
+		<color1><![CDATA[#660000]]></color1>
+		<color2><![CDATA[#CCCCCC]]></color2>
+		<mascot><![CDATA[Bulldog]]></mascot>
+		<chant><![CDATA[Hail state]]></chant>
+		<shortname><![CDATA[MSU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Missouri]]></school>
+		<color1><![CDATA[#F1b82d]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[]]></chant>
+		<shortname><![CDATA[Mizzou]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of South Carolina ]]></school>
+		<color1><![CDATA[#73000A]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Gamecock]]></mascot>
+		<chant><![CDATA[Go cocks]]></chant>
+		<shortname><![CDATA[USC]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[University of Tennessee]]></school>
+		<color1><![CDATA[#FF8200]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Volunteer]]></mascot>
+		<chant><![CDATA[Go Vols]]></chant>
+		<shortname><![CDATA[UT]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[Texas A&M University]]></school>
+		<color1><![CDATA[#500000]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Aggies]]></mascot>
+		<chant><![CDATA[Gig 'em]]></chant>
+		<shortname><![CDATA[TAMU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[SEC]]></conference>
+		<school><![CDATA[ Vanderbilt University]]></school>
+		<color1><![CDATA[#997F3D]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Commodore]]></mascot>
+		<chant><![CDATA[Anchor down]]></chant>
+		<shortname><![CDATA[Vandy]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Clemson University]]></school>
+		<color1><![CDATA[#F66733]]></color1>
+		<color2><![CDATA[#522D80]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[Go tigers]]></chant>
+		<shortname><![CDATA[CU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Boston College]]></school>
+		<color1><![CDATA[#862633]]></color1>
+		<color2><![CDATA[#8b6f4e]]></color2>
+		<mascot><![CDATA[Eagle]]></mascot>
+		<chant><![CDATA[Go eagles]]></chant>
+		<shortname><![CDATA[BC]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Duke University]]></school>
+		<color1><![CDATA[#001A57]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Blue Devil]]></mascot>
+		<chant><![CDATA[Go Duke]]></chant>
+		<shortname><![CDATA[Duke]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Florida State University]]></school>
+		<color1><![CDATA[#782F40]]></color1>
+		<color2><![CDATA[#CEB888]]></color2>
+		<mascot><![CDATA[Seminole]]></mascot>
+		<chant><![CDATA[Go 'noles]]></chant>
+		<shortname><![CDATA[FSU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Georgia Tech]]></school>
+		<color1><![CDATA[#CS9353]]></color1>
+		<color2><![CDATA[#00254C]]></color2>
+		<mascot><![CDATA[Yellow jacket]]></mascot>
+		<chant><![CDATA[Wreck 'em]]></chant>
+		<shortname><![CDATA[GT]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[North Carolina State]]></school>
+		<color1><![CDATA[#CC0000]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Wolfpack]]></mascot>
+		<chant><![CDATA[Go pack]]></chant>
+		<shortname><![CDATA[NC State]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[University of Miami ]]></school>
+		<color1><![CDATA[#005030]]></color1>
+		<color2><![CDATA[#f47321]]></color2>
+		<mascot><![CDATA[Hurricane]]></mascot>
+		<chant><![CDATA[Go canes]]></chant>
+		<shortname><![CDATA[UA]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[University of North Carolina]]></school>
+		<color1><![CDATA[#7BAFD4]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Tarheel]]></mascot>
+		<chant><![CDATA[Go heels]]></chant>
+		<shortname><![CDATA[UNC]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[University of Virginia]]></school>
+		<color1><![CDATA[#002F6C]]></color1>
+		<color2><![CDATA[#E57200]]></color2>
+		<mascot><![CDATA[Cavalier]]></mascot>
+		<chant><![CDATA[Go hoos]]></chant>
+		<shortname><![CDATA[UVA]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Virginia Tech]]></school>
+		<color1><![CDATA[#660000]]></color1>
+		<color2><![CDATA[#FF6600]]></color2>
+		<mascot><![CDATA[Hokie]]></mascot>
+		<chant><![CDATA[Go hokies]]></chant>
+		<shortname><![CDATA[VT]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Wake Forest ]]></school>
+		<color1><![CDATA[#9E7E38]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Demon Deacon]]></mascot>
+		<chant><![CDATA[Go Deacs]]></chant>
+		<shortname><![CDATA[WF]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[ACC]]></conference>
+		<school><![CDATA[Syracuse University]]></school>
+		<color1><![CDATA[#D44500]]></color1>
+		<color2><![CDATA[#0D1D37]]></color2>
+		<mascot><![CDATA[Orange]]></mascot>
+		<chant><![CDATA[Go orange]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Other]]></conference>
+		<school><![CDATA[Louisville]]></school>
+		<color1><![CDATA[#AD0000]]></color1>
+		<color2><![CDATA[#000000]]></color2>
+		<mascot><![CDATA[Cardinal]]></mascot>
+		<chant><![CDATA[Go cards]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Other]]></conference>
+		<school><![CDATA[Pittsburgh]]></school>
+		<color1><![CDATA[#1c2957 ]]></color1>
+		<color2><![CDATA[#cdb87d ]]></color2>
+		<mascot><![CDATA[Panthers]]></mascot>
+		<chant><![CDATA[Go panthers ]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[Michigan State]]></school>
+		<color1><![CDATA[#18453B]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Spartans]]></mascot>
+		<chant><![CDATA[Go spartans]]></chant>
+		<shortname><![CDATA[MSU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[Ohio State University]]></school>
+		<color1><![CDATA[#bb0000]]></color1>
+		<color2><![CDATA[#666666]]></color2>
+		<mascot><![CDATA[Buckeye]]></mascot>
+		<chant><![CDATA[O-H..I-O]]></chant>
+		<shortname><![CDATA[OSU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[University of Michigan]]></school>
+		<color1><![CDATA[#ffcb05]]></color1>
+		<color2><![CDATA[#00274c]]></color2>
+		<mascot><![CDATA[Wolverines]]></mascot>
+		<chant><![CDATA[Go blue]]></chant>
+		<shortname><![CDATA[U-M]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[Pennsylvania State University]]></school>
+		<color1><![CDATA[#041e42]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Nittany Lion]]></mascot>
+		<chant><![CDATA[We are]]></chant>
+		<shortname><![CDATA[Penn State]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[Indiana University]]></school>
+		<color1><![CDATA[#990000]]></color1>
+		<color2><![CDATA[#EEEDEB]]></color2>
+		<mascot><![CDATA[Hoosiers]]></mascot>
+		<chant><![CDATA[]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[University of Maryland ]]></school>
+		<color1><![CDATA[#c8102e]]></color1>
+		<color2><![CDATA[#ffcd00]]></color2>
+		<mascot><![CDATA[Terrapin]]></mascot>
+		<chant><![CDATA[Go terps]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[Northwestern University]]></school>
+		<color1><![CDATA[#4E2A84]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Wildcat]]></mascot>
+		<chant><![CDATA[]]></chant>
+		<shortname><![CDATA[NU]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[University of Wisconsin ]]></school>
+		<color1><![CDATA[#ba0c2f]]></color1>
+		<color2><![CDATA[#ffffff]]></color2>
+		<mascot><![CDATA[Badger]]></mascot>
+		<chant><![CDATA[On Wisconsin]]></chant>
+		<shortname><![CDATA[UW]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[University of Nebraska ]]></school>
+		<color1><![CDATA[#d00000]]></color1>
+		<color2><![CDATA[#f5f1e7]]></color2>
+		<mascot><![CDATA[Cornhuskers]]></mascot>
+		<chant><![CDATA[Go huskers]]></chant>
+		<shortname><![CDATA[UNL]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[University of Illinois]]></school>
+		<color1><![CDATA[#131F33]]></color1>
+		<color2><![CDATA[#FA6300]]></color2>
+		<mascot><![CDATA[Fighting Illini]]></mascot>
+		<chant><![CDATA[Let's go Illini]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[Purdue University]]></school>
+		<color1><![CDATA[#000000]]></color1>
+		<color2><![CDATA[#B1810B]]></color2>
+		<mascot><![CDATA[Boilermakers]]></mascot>
+		<chant><![CDATA[Boiler up]]></chant>
+		<shortname><![CDATA[Purdue]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Big 10]]></conference>
+		<school><![CDATA[University of Minnesota ]]></school>
+		<color1><![CDATA[#ffcc33]]></color1>
+		<color2><![CDATA[#7a0019]]></color2>
+		<mascot><![CDATA[Golden Gopher]]></mascot>
+		<chant><![CDATA[Go gophers]]></chant>
+		<shortname><![CDATA[]]></shortname>
+	</node>
+	<node>
+		<conference><![CDATA[Other]]></conference>
+		<school><![CDATA[Notre Dame]]></school>
+		<color1><![CDATA[#c99700]]></color1>
+		<color2><![CDATA[#0C2340]]></color2>
+		<mascot><![CDATA[Leprechaun/fighting Irish]]></mascot>
+		<chant><![CDATA[Go Irish]]></chant>
+		<shortname><![CDATA[ND]]></shortname>
+	</node>
+</data>

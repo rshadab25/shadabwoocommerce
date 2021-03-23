@@ -1,0 +1,242 @@
+[26-Aug-2020 13:51:32 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[26-Aug-2020 13:51:32 UTC] PHP Stack trace:
+[26-Aug-2020 13:51:32 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[26-Aug-2020 13:51:32 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[26-Aug-2020 13:51:32 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[26-Aug-2020 13:51:32 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[26-Aug-2020 13:51:32 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[26-Aug-2020 13:51:32 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[26-Aug-2020 13:51:32 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[26-Aug-2020 13:51:32 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[26-Aug-2020 13:51:32 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[26-Aug-2020 13:51:32 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[26-Aug-2020 13:51:32 UTC] PHP Stack trace:
+[26-Aug-2020 13:51:32 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[26-Aug-2020 13:51:32 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[26-Aug-2020 13:51:32 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[26-Aug-2020 13:51:32 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[26-Aug-2020 13:51:32 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[26-Aug-2020 13:51:32 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[26-Aug-2020 13:51:32 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[26-Aug-2020 13:51:32 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[26-Aug-2020 13:51:32 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[26-Aug-2020 16:18:19 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[26-Aug-2020 16:18:19 UTC] PHP Stack trace:
+[26-Aug-2020 16:18:19 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[26-Aug-2020 16:18:19 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[26-Aug-2020 16:18:19 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[26-Aug-2020 16:18:19 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[26-Aug-2020 16:18:19 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[26-Aug-2020 16:18:19 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[26-Aug-2020 16:18:19 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[26-Aug-2020 16:18:19 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[26-Aug-2020 16:18:19 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:06:35 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:06:35 UTC] PHP Stack trace:
+[03-Sep-2020 18:06:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:06:35 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[03-Sep-2020 18:06:35 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[03-Sep-2020 18:06:35 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:06:35 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:06:35 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:06:35 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:06:35 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:06:35 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:06:36 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:06:36 UTC] PHP Stack trace:
+[03-Sep-2020 18:06:36 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:06:36 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[03-Sep-2020 18:06:36 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[03-Sep-2020 18:06:36 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:06:36 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:06:36 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:06:36 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:06:36 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:06:36 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:07:28 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:07:28 UTC] PHP Stack trace:
+[03-Sep-2020 18:07:28 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:07:28 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:07:28 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:07:28 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:07:28 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:07:28 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:07:28 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:07:28 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:07:29 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:07:29 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:07:29 UTC] PHP Stack trace:
+[03-Sep-2020 18:07:29 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:07:29 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:07:29 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:07:29 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:07:29 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:07:29 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:07:29 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:07:29 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:07:29 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:14:24 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:14:24 UTC] PHP Stack trace:
+[03-Sep-2020 18:14:24 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:14:24 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[03-Sep-2020 18:14:24 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[03-Sep-2020 18:14:24 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:14:24 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:14:24 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:14:24 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:14:24 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:14:24 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:14:24 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:14:24 UTC] PHP Stack trace:
+[03-Sep-2020 18:14:24 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:14:24 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[03-Sep-2020 18:14:24 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[03-Sep-2020 18:14:24 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:14:24 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:14:24 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:14:24 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:14:24 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:14:24 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:14:29 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:14:29 UTC] PHP Stack trace:
+[03-Sep-2020 18:14:29 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:14:29 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[03-Sep-2020 18:14:29 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[03-Sep-2020 18:14:29 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:14:29 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:14:29 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:14:29 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:14:29 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:14:29 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:14:29 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:14:29 UTC] PHP Stack trace:
+[03-Sep-2020 18:14:29 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:14:29 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[03-Sep-2020 18:14:29 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[03-Sep-2020 18:14:29 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:14:29 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:14:29 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:14:29 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:14:29 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:14:29 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:15:01 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:15:01 UTC] PHP Stack trace:
+[03-Sep-2020 18:15:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:15:01 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:15:01 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:15:02 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:15:02 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:15:02 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:15:02 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:15:02 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:15:02 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:15:02 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:15:02 UTC] PHP Stack trace:
+[03-Sep-2020 18:15:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:15:02 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:15:02 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:15:02 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:15:02 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:15:02 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:15:02 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:15:02 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:15:02 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:15:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:15:04 UTC] PHP Stack trace:
+[03-Sep-2020 18:15:04 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:15:04 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:15:04 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:15:04 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:15:04 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:15:04 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:15:04 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:15:04 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:15:04 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:15:04 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[03-Sep-2020 18:15:04 UTC] PHP Stack trace:
+[03-Sep-2020 18:15:04 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:15:04 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:15:04 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:15:04 UTC] PHP   4. Plugin_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[03-Sep-2020 18:15:04 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[03-Sep-2020 18:15:04 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[03-Sep-2020 18:15:04 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[03-Sep-2020 18:15:04 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[03-Sep-2020 18:15:04 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[03-Sep-2020 18:15:09 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /home/lazy4charminar/public_html/nfbstores.com/wp-includes/update.php on line 388
+[03-Sep-2020 18:15:09 UTC] PHP Stack trace:
+[03-Sep-2020 18:15:09 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[03-Sep-2020 18:15:09 UTC] PHP   2. Plugin_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:164
+[03-Sep-2020 18:15:09 UTC] PHP   3. Plugin_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-plugin-upgrader.php:108
+[03-Sep-2020 18:15:09 UTC] PHP   4. do_action() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:841
+[03-Sep-2020 18:15:09 UTC] PHP   5. WP_Hook->do_action() /home/lazy4charminar/public_html/nfbstores.com/wp-includes/plugin.php:478
+[03-Sep-2020 18:15:09 UTC] PHP   6. WP_Hook->apply_filters() /home/lazy4charminar/public_html/nfbstores.com/wp-includes/class-wp-hook.php:311
+[03-Sep-2020 18:15:09 UTC] PHP   7. wp_update_plugins() /home/lazy4charminar/public_html/nfbstores.com/wp-includes/class-wp-hook.php:285
+[03-Sep-2020 18:15:09 UTC] PHP   8. trigger_error() /home/lazy4charminar/public_html/nfbstores.com/wp-includes/update.php:388
+[09-Sep-2020 19:37:38 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[09-Sep-2020 19:37:38 UTC] PHP Stack trace:
+[09-Sep-2020 19:37:38 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[09-Sep-2020 19:37:38 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[09-Sep-2020 19:37:38 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[09-Sep-2020 19:37:38 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[09-Sep-2020 19:37:38 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[09-Sep-2020 19:37:38 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[09-Sep-2020 19:37:38 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[09-Sep-2020 19:37:38 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[09-Sep-2020 19:37:38 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[09-Sep-2020 19:37:38 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[09-Sep-2020 19:37:38 UTC] PHP Stack trace:
+[09-Sep-2020 19:37:38 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[09-Sep-2020 19:37:38 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[09-Sep-2020 19:37:38 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[09-Sep-2020 19:37:38 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[09-Sep-2020 19:37:38 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[09-Sep-2020 19:37:38 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[09-Sep-2020 19:37:38 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[09-Sep-2020 19:37:38 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[09-Sep-2020 19:37:38 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[09-Sep-2020 19:42:18 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[09-Sep-2020 19:42:18 UTC] PHP Stack trace:
+[09-Sep-2020 19:42:18 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[09-Sep-2020 19:42:18 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[09-Sep-2020 19:42:18 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[09-Sep-2020 19:42:18 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[09-Sep-2020 19:42:18 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[09-Sep-2020 19:42:18 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[09-Sep-2020 19:42:18 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[09-Sep-2020 19:42:18 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[09-Sep-2020 19:42:18 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[09-Sep-2020 19:42:18 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[09-Sep-2020 19:42:18 UTC] PHP Stack trace:
+[09-Sep-2020 19:42:18 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[09-Sep-2020 19:42:18 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[09-Sep-2020 19:42:18 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[09-Sep-2020 19:42:18 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[09-Sep-2020 19:42:18 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[09-Sep-2020 19:42:18 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[09-Sep-2020 19:42:18 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[09-Sep-2020 19:42:18 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[09-Sep-2020 19:42:18 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[09-Sep-2020 19:42:38 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[09-Sep-2020 19:42:38 UTC] PHP Stack trace:
+[09-Sep-2020 19:42:38 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[09-Sep-2020 19:42:38 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[09-Sep-2020 19:42:38 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[09-Sep-2020 19:42:38 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[09-Sep-2020 19:42:38 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[09-Sep-2020 19:42:38 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[09-Sep-2020 19:42:38 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[09-Sep-2020 19:42:38 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[09-Sep-2020 19:42:38 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[09-Sep-2020 19:42:38 UTC] PHP Warning:  chmod(): No such file or directory in /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php on line 168
+[09-Sep-2020 19:42:38 UTC] PHP Stack trace:
+[09-Sep-2020 19:42:38 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:0
+[09-Sep-2020 19:42:38 UTC] PHP   2. Theme_Upgrader->install() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/update.php:284
+[09-Sep-2020 19:42:38 UTC] PHP   3. Theme_Upgrader->run() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-theme-upgrader.php:221
+[09-Sep-2020 19:42:38 UTC] PHP   4. Theme_Upgrader->unpack_package() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:776
+[09-Sep-2020 19:42:38 UTC] PHP   5. unzip_file() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-upgrader.php:325
+[09-Sep-2020 19:42:38 UTC] PHP   6. _unzip_file_ziparchive() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1442
+[09-Sep-2020 19:42:38 UTC] PHP   7. WP_Filesystem_Direct->put_contents() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/file.php:1576
+[09-Sep-2020 19:42:38 UTC] PHP   8. WP_Filesystem_Direct->chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:85
+[09-Sep-2020 19:42:38 UTC] PHP   9. chmod() /home/lazy4charminar/public_html/nfbstores.com/wp-admin/includes/class-wp-filesystem-direct.php:168
+[10-Sep-2020 13:36:19 UTC] PHP Parse error:  syntax error, unexpected '<', expecting ')' in /home/lazy4charminar/public_html/nfbstores.com/wp-content/themes/dt-the7/inc/extensions/stylesheet-functions.php on line 13

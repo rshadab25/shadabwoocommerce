@@ -1,0 +1,286 @@
+# Copyright (C) 2018 SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Bambora Gateway 1.12.0\n"
+"Report-Msgid-Bugs-To: "
+"https://woocommerce.com/my-account/marketplace-ticket-form/\n"
+"POT-Creation-Date: 2015-01-04 20:54:08+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2018-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: woocommerce-gateway-beanstream.php:70
+msgid "Bambora"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:71
+msgid "Accept credit card payments via the Bambora (North America) Payment Gateway"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:120
+#. translators: Placeholders: %1$s - <a> tag, %2$s - </a> tag
+msgid ""
+"Bambora Payment Gateway is enabled and the %1$sForce secure checkout%2$s "
+"option is disabled; your checkout is not secure! Please enable this feature "
+"and ensure your server has a valid SSL certificate installed."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:137
+msgid "Enable/Disable"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:139
+msgid "Enable Bambora Gateway"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:144
+msgid "Title"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:146
+msgid "The title which the user sees during checkout."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:147
+msgid "Credit Card (Bambora)"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:151
+msgid "Description"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:153
+msgid "This controls the description which the user sees during checkout."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:154
+msgid "Pay securely by credit card."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:158
+msgid "Merchant ID"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:160
+msgid "Please enter your Merchant ID as provided by Bambora."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:165
+msgid "Hash Key"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:167
+msgid "Please enter your Hash Key as set in Bambora."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:172
+msgid "Pre Authorization Only"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:174
+msgid ""
+"Preauthorize transactions. Orders would need to be finalized in your "
+"Bambora account dashboard."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:179
+msgid "Card Type Dropdown"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:180
+msgid "Enable display of card type drop down"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:182
+msgid "Display the Card Types drop down on the checkout page."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:187
+msgid "Accepted Cards"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:189
+msgid "Select which card types to accept."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:200
+msgid "Debugging"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:201
+msgid "Enable debug emails"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:203
+msgid "Receive emails containing the data sent to and from Bambora."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:208
+msgid "Debugging Email"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:210
+msgid "Who should receive the debugging emails."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:241
+msgid ""
+"Bambora allows customers to checkout using a credit card by adding credit "
+"card fields on the checkout page and then sending the details to Bambora "
+"for verification."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:261
+msgid "Credit card number"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:267
+msgid "Card type"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:279
+msgid "Expiration date"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:281
+msgid "Month"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:284
+msgid "January"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:285
+msgid "February"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:286
+msgid "March"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:287
+msgid "April"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:288
+msgid "May"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:289
+msgid "June"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:290
+msgid "July"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:291
+msgid "August"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:292
+msgid "September"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:293
+msgid "October"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:294
+msgid "November"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:295
+msgid "December"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:305
+#. translators: Placeholders: %1$s - month number, %2$s - month name
+msgid "Year"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:314
+msgid "Card security code"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:466
+msgid "There was a problem connecting to the payment gateway."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:468
+msgid "Empty Bambora response."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:507
+msgid "Bambora payment completed"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:528
+msgid "Bambora payment failed"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:528
+msgid "Payment was rejected due to an error"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:532
+msgid "Payment error"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:552
+msgid "Card security code is invalid (only digits are allowed)"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:565
+msgid "Card expiration date is invalid"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:573
+msgid "Card number is invalid"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:586
+msgid "Thank you for your order."
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:657
+msgid "Bambora Debug"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:670
+msgid "Settings"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:671
+msgid "Support"
+msgstr ""
+
+#: woocommerce-gateway-beanstream.php:672
+msgid "Docs"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Bambora Gateway"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woocommerce.com/products/bambora/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Extends WooCommerce to provide a <a href=\"http://bambora.com\">Bambora</a> "
+"payment gateway for WooCommerce."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "SkyVerge"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.woocommerce.com/"
+msgstr ""

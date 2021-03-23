@@ -1,0 +1,7 @@
+/*!
+ * jQuery.concertina stylesheet
+ *
+ * Copyright (c) 2014 Evgeny Pirogov
+ * Licensed under the The MIT License (MIT)
+ *
+ */.concertina{list-style:none;margin:0;padding:0;display:block;width:100%;overflow:hidden;font-size:0}.concertina-item{float:left;height:100%;overflow:hidden;background:transparent center center no-repeat;background-size:cover;-webkit-transition:margin-right .4s ease-in-out 0s;-moz-transition:margin-right .4s ease-in-out 0s;-ms-transition:margin-right .4s ease-in-out 0s;-o-transition:margin-right .4s ease-in-out 0s;transition:margin-right .4s ease-in-out 0s;-webkit-transition-property:-webkit-filter,margin-right;-webkit-filter:grayscale(1)}.concertina-item.active{-webkit-filter:grayscale(0)}.concertina-mode_image .concertina-item>img{visibility:hidden}

@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<school><![CDATA[UGA- University of Georgia]]></school>
+		<color1><![CDATA[Bulldog Red- #BA0C2F]]></color1>
+		<color2><![CDATA[Black]]></color2>
+		<mascot><![CDATA[Bulldog]]></mascot>
+		<chant><![CDATA[Go dawgs! Sic 'em]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/be9793]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UA- University of Alabama]]></school>
+		<color1><![CDATA[UA Crimson- #990000]]></color1>
+		<color2><![CDATA[Warm grey- #eeeeee]]></color2>
+		<mascot><![CDATA[Crimson tide]]></mascot>
+		<chant><![CDATA[Roll Tide]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/TeammemberFullPage/3c49c9]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[AU- Auburn University]]></school>
+		<color1><![CDATA[Primary Orange- #dd550c]]></color1>
+		<color2><![CDATA[Primary blue- #03244d]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[War Eagle]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/TeammemberFullPage/85387c]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Ole Miss- University of Mississippi]]></school>
+		<color1><![CDATA[Red- #c8102e]]></color1>
+		<color2><![CDATA[Blue- #00205b]]></color2>
+		<mascot><![CDATA[Rebels]]></mascot>
+		<chant><![CDATA[Go Rebs/ hotty toddy]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/187516]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UARK- University of Arkansas]]></school>
+		<color1><![CDATA[Cardinal Red- #9D2235]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Hog]]></mascot>
+		<chant><![CDATA[Woo pig sooie]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/5d2625]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UF- University of Florida ]]></school>
+		<color1><![CDATA[Orange- #FA4616]]></color1>
+		<color2><![CDATA[Blue- #0021A5]]></color2>
+		<mascot><![CDATA[Gator]]></mascot>
+		<chant><![CDATA[Go gators]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/63c600]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UK- University of Kentucky]]></school>
+		<color1><![CDATA[Blue- #0033A0]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Wildcat]]></mascot>
+		<chant><![CDATA[Go big blue]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/cf2c3f]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[LSU- Louisiana State University]]></school>
+		<color1><![CDATA[Purple- #461D7C]]></color1>
+		<color2><![CDATA[Gold- #FDD023]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[Geaux Tigers]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/82c7f5]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[MSU- Mississippi State University]]></school>
+		<color1><![CDATA[Maroon- #660000]]></color1>
+		<color2><![CDATA[Light grey- #CCCCCC]]></color2>
+		<mascot><![CDATA[Bulldog]]></mascot>
+		<chant><![CDATA[Hail state]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/58d9b3]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Mizzou- University of Missouri]]></school>
+		<color1><![CDATA[Gold- #F1b82d]]></color1>
+		<color2><![CDATA[Black]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/a84835]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[USC- University of South Carolina ]]></school>
+		<color1><![CDATA[Garnet- #73000A]]></color1>
+		<color2><![CDATA[Black]]></color2>
+		<mascot><![CDATA[Gamecock]]></mascot>
+		<chant><![CDATA[Go cocks]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/dbf41a]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UT- University of Tennessee]]></school>
+		<color1><![CDATA[Orange- #FF8200]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Volunteer]]></mascot>
+		<chant><![CDATA[Go Vols]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/50e7d2]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[TAMU- Texas A&M University]]></school>
+		<color1><![CDATA[Aggie maroon- #500000]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Aggies]]></mascot>
+		<chant><![CDATA[Gig 'em]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/6fd05e]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Vandy- Vanderbilt University]]></school>
+		<color1><![CDATA[Gold- #997F3D]]></color1>
+		<color2><![CDATA[Black]]></color2>
+		<mascot><![CDATA[Commodore]]></mascot>
+		<chant><![CDATA[Anchor down]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/920a8d]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[CU- Clemson University]]></school>
+		<color1><![CDATA[Orange- #F66733]]></color1>
+		<color2><![CDATA[Purple- #522D80]]></color2>
+		<mascot><![CDATA[Tiger]]></mascot>
+		<chant><![CDATA[Go tigers]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/20e14c]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[BC- Boston College]]></school>
+		<color1><![CDATA[Maroon- #862633]]></color1>
+		<color2><![CDATA[Gold- #8b6f4e]]></color2>
+		<mascot><![CDATA[Eagle]]></mascot>
+		<chant><![CDATA[Go eagles]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/26f09d]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Duke- Duke University]]></school>
+		<color1><![CDATA[Blue- #001A57]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Blue Devil]]></mascot>
+		<chant><![CDATA[Go Duke]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/721ba0]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[FSU- Florida State University]]></school>
+		<color1><![CDATA[Garnet- #782F40]]></color1>
+		<color2><![CDATA[Gold- #CEB888]]></color2>
+		<mascot><![CDATA[Seminole]]></mascot>
+		<chant><![CDATA[Go 'noles]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/c5d8d3]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[GT- Georgia Tech]]></school>
+		<color1><![CDATA[Gold- #CS9353]]></color1>
+		<color2><![CDATA[Navy- #00254C]]></color2>
+		<mascot><![CDATA[Yellow jacket]]></mascot>
+		<chant><![CDATA[Wreck 'em]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/ed8cbe]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[NC State- North Carolina State]]></school>
+		<color1><![CDATA[Red- #CC0000]]></color1>
+		<color2><![CDATA[Black]]></color2>
+		<mascot><![CDATA[Wolfpack]]></mascot>
+		<chant><![CDATA[Go pack]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/1ecccf]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[University of Miami ]]></school>
+		<color1><![CDATA[Green- #005030]]></color1>
+		<color2><![CDATA[Orange- #f47321]]></color2>
+		<mascot><![CDATA[Hurricane]]></mascot>
+		<chant><![CDATA[Go canes]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/79214f]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UNC- University of North Carolina]]></school>
+		<color1><![CDATA[Carolina Blue- #7BAFD4]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Tarheel]]></mascot>
+		<chant><![CDATA[Go heels]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/5aeeed]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UVA- University of Virginia]]></school>
+		<color1><![CDATA[Blue- #002F6C]]></color1>
+		<color2><![CDATA[Orange- #E57200]]></color2>
+		<mascot><![CDATA[Cavalier]]></mascot>
+		<chant><![CDATA[Go hoos]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/c922c9]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[VT- Virginia Tech]]></school>
+		<color1><![CDATA[Maroon- #660000]]></color1>
+		<color2><![CDATA[Orange- #FF6600]]></color2>
+		<mascot><![CDATA[Hokie]]></mascot>
+		<chant><![CDATA[Go hokies]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/cbb318]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[WF- Wake Forest ]]></school>
+		<color1><![CDATA[Gold- #9E7E38]]></color1>
+		<color2><![CDATA[Black]]></color2>
+		<mascot><![CDATA[Demon Deacon]]></mascot>
+		<chant><![CDATA[Go Deacs]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/b9c0ac]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Syracuse University]]></school>
+		<color1><![CDATA[Orange-##D44500]]></color1>
+		<color2><![CDATA[Athletics Navy- #0D1D37]]></color2>
+		<mascot><![CDATA[Orange]]></mascot>
+		<chant><![CDATA[Go orange]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/34214a]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Louisville]]></school>
+		<color1><![CDATA[AD0000]]></color1>
+		<color2><![CDATA[black]]></color2>
+		<mascot><![CDATA[Cardinal]]></mascot>
+		<chant><![CDATA[Go cards]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/406033]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Pittsburgh]]></school>
+		<color1><![CDATA[Blue- #1c2957 ]]></color1>
+		<color2><![CDATA[Gold- #cdb87d ]]></color2>
+		<mascot><![CDATA[Panthers]]></mascot>
+		<chant><![CDATA[Go panthers ]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/fd66e3]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[MSU- Michigan State]]></school>
+		<color1><![CDATA[Green- #18453B]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Spartans]]></mascot>
+		<chant><![CDATA[Go spartans]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/68beb1]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[OSU- Ohio State University]]></school>
+		<color1><![CDATA[Red- #bb0000]]></color1>
+		<color2><![CDATA[Grey- #666666]]></color2>
+		<mascot><![CDATA[Buckeye]]></mascot>
+		<chant><![CDATA[O-H..I-O]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/61ae90]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[U-M- University of Michigan]]></school>
+		<color1><![CDATA[Yellow- #ffcb05]]></color1>
+		<color2><![CDATA[Blue- #00274c]]></color2>
+		<mascot><![CDATA[Wolverines]]></mascot>
+		<chant><![CDATA[Go blue]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/5b4374]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Penn State- Pennsylvania State University]]></school>
+		<color1><![CDATA[Blue- #041e42]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Nittany Lion]]></mascot>
+		<chant><![CDATA[We are]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/604b6e]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Indiana University]]></school>
+		<color1><![CDATA[Crimson- #990000]]></color1>
+		<color2><![CDATA[Cream- #EEEDEB]]></color2>
+		<mascot><![CDATA[Hoosiers]]></mascot>
+		<chant><![CDATA[]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/8adbc3]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[University of Maryland ]]></school>
+		<color1><![CDATA[Red- #c8102e]]></color1>
+		<color2><![CDATA[Gold- #ffcd00]]></color2>
+		<mascot><![CDATA[Terrapin]]></mascot>
+		<chant><![CDATA[Go terps]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/e381e9]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[NU- Northwestern University]]></school>
+		<color1><![CDATA[Purple- #4E2A84]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Wildcat]]></mascot>
+		<chant><![CDATA[]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/a437e9]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UW- University of Wisconsin ]]></school>
+		<color1><![CDATA[Red- #ba0c2f]]></color1>
+		<color2><![CDATA[White]]></color2>
+		<mascot><![CDATA[Badger]]></mascot>
+		<chant><![CDATA[On Wisconsin]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/TeammemberFullPage/86fd90]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[UNL- University of Nebraska ]]></school>
+		<color1><![CDATA[Scarlet- #d00000]]></color1>
+		<color2><![CDATA[Cream- #f5f1e7]]></color2>
+		<mascot><![CDATA[Cornhuskers]]></mascot>
+		<chant><![CDATA[Go huskers]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/9fe5ae]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[University of Illinois]]></school>
+		<color1><![CDATA[Blue- #131F33]]></color1>
+		<color2><![CDATA[Orange- #FA6300]]></color2>
+		<mascot><![CDATA[Fighting Illini]]></mascot>
+		<chant><![CDATA[Let's go Illini]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/c09666]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[Purdue- Purdue University]]></school>
+		<color1><![CDATA[Black]]></color1>
+		<color2><![CDATA[Gold- #B1810B]]></color2>
+		<mascot><![CDATA[Boilermakers]]></mascot>
+		<chant><![CDATA[Boiler up]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/ce2a60]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[University of Minnesota ]]></school>
+		<color1><![CDATA[Gold- #ffcc33]]></color1>
+		<color2><![CDATA[Maroon- #7a0019]]></color2>
+		<mascot><![CDATA[Golden Gopher]]></mascot>
+		<chant><![CDATA[Go gophers]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/69d403]]></teamrep>
+	</node>
+	<node>
+		<school><![CDATA[ND- Notre Dame]]></school>
+		<color1><![CDATA[Gold- #c99700]]></color1>
+		<color2><![CDATA[Blue- #0C2340]]></color2>
+		<mascot><![CDATA[Leprechaun/fighting Irish]]></mascot>
+		<chant><![CDATA[Go Irish]]></chant>
+		<teamrep><![CDATA[https://choa.rallyup.com/teammemberfullpage/fcd330]]></teamrep>
+	</node>
+</data>

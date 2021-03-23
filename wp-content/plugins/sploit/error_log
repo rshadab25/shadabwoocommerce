@@ -1,0 +1,168 @@
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:39:02 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:39:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:39:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:31 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:41:31 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:31 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:35 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:41:35 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:35 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:44 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:41:44 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:44 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:58 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:58 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:58 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:58 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:58 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:58 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:58 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:58 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:58 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:58 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:58 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:58 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:58 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:41:58 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:59 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:59 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:41:59 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:59 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:41:59 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:41:59 UTC] PHP Stack trace:
+[26-Aug-2020 18:41:59 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:01 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:42:01 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:01 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:02 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:02 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:02 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:02 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:02 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:02 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:03 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:03 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:42:03 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:03 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:03 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:42:03 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:03 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:42:03 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:42:03 UTC] PHP Stack trace:
+[26-Aug-2020 18:42:03 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined variable: base in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined variable: bytes in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined variable: si_prefix in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined variable: class in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 7
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined variable: php_self in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 35
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0
+[26-Aug-2020 18:46:50 UTC] PHP Notice:  Undefined index: connect in /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php on line 57
+[26-Aug-2020 18:46:50 UTC] PHP Stack trace:
+[26-Aug-2020 18:46:50 UTC] PHP   1. {main}() /home/lazy4charminar/public_html/nfbstores.com/wp-content/plugins/sploit/hex.php:0

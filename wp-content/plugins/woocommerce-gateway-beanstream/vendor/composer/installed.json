@@ -1,0 +1,81 @@
+[
+    {
+        "name": "skyverge/wc-jilt-promotions",
+        "version": "1.0.2",
+        "version_normalized": "1.0.2.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/skyverge/wc-jilt-promotions.git",
+            "reference": "8900ebd4e1ab5106d9a4aaa95902682d660bb842"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/skyverge/wc-jilt-promotions/zipball/8900ebd4e1ab5106d9a4aaa95902682d660bb842",
+            "reference": "8900ebd4e1ab5106d9a4aaa95902682d660bb842",
+            "shasum": ""
+        },
+        "time": "2020-07-09T19:01:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "description": "Callouts to promote Jilt in WooCommerce",
+        "support": {
+            "source": "https://github.com/skyverge/wc-jilt-promotions/tree/master",
+            "issues": "https://github.com/skyverge/wc-jilt-promotions/issues"
+        }
+    },
+    {
+        "name": "skyverge/wc-plugin-framework",
+        "version": "5.8.1",
+        "version_normalized": "5.8.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/skyverge/wc-plugin-framework.git",
+            "reference": "7b1f7d2dcf585c104ed89ab7bfead1c7a32eceeb"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/skyverge/wc-plugin-framework/zipball/7b1f7d2dcf585c104ed89ab7bfead1c7a32eceeb",
+            "reference": "7b1f7d2dcf585c104ed89ab7bfead1c7a32eceeb",
+            "shasum": ""
+        },
+        "require-dev": {
+            "lucatume/wp-browser": "^2.1"
+        },
+        "time": "2020-07-31T15:43:33+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "description": "The official SkyVerge WooCommerce plugin framework",
+        "support": {
+            "source": "https://github.com/skyverge/wc-plugin-framework/tree/5.8.1",
+            "issues": "https://github.com/skyverge/wc-plugin-framework/issues"
+        }
+    },
+    {
+        "name": "skyverge/wordpress-plugin-admin",
+        "version": "1.0.0",
+        "version_normalized": "1.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "git@github.com:skyverge/wordpress-plugin-admin.git",
+            "reference": "3eb85fd683985b9c7097dc370dafda0e1bdd13ae"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/skyverge/wordpress-plugin-admin/zipball/3eb85fd683985b9c7097dc370dafda0e1bdd13ae",
+            "reference": "3eb85fd683985b9c7097dc370dafda0e1bdd13ae",
+            "shasum": ""
+        },
+        "require-dev": {
+            "lucatume/wp-browser": "2.2.37",
+            "skyverge/lumiere": "dev-master"
+        },
+        "time": "2020-07-31T19:14:44+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "description": "WordPress administrative area for SkyVerge plugins",
+        "support": {
+            "source": "https://github.com/skyverge/wordpress-plugin-admin/tree/master",
+            "issues": "https://github.com/skyverge/wordpress-plugin-admin/issues"
+        }
+    }
+]
